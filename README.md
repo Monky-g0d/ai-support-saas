@@ -1,1 +1,1 @@
-# ai-support-saas
+echo "# AI Support SaaS" > README.md
