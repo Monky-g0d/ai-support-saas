@@ -1,0 +1,17 @@
+/Users/gercou/backend_2/ai-support-saas/backend-2/src/main/java/org/example/backend2/dto/TicketDto.java
+/Users/gercou/backend_2/ai-support-saas/backend-2/src/main/java/org/example/backend2/client/Backend1Client.java
+/Users/gercou/backend_2/ai-support-saas/backend-2/src/main/java/org/example/backend2/dto/KnowledgeArticleDto.java
+/Users/gercou/backend_2/ai-support-saas/backend-2/src/main/java/org/example/backend2/service/AnalyticsService.java
+/Users/gercou/backend_2/ai-support-saas/backend-2/src/main/java/org/example/backend2/service/AiService.java
+/Users/gercou/backend_2/ai-support-saas/backend-2/src/main/java/org/example/backend2/Backend2Application.java
+/Users/gercou/backend_2/ai-support-saas/backend-2/src/main/java/org/example/backend2/config/WebClientConfig.java
+/Users/gercou/backend_2/ai-support-saas/backend-2/src/main/java/org/example/backend2/dto/AiResponseDto.java
+/Users/gercou/backend_2/ai-support-saas/backend-2/src/main/java/org/example/backend2/dto/MessageDto.java
+/Users/gercou/backend_2/ai-support-saas/backend-2/src/main/java/org/example/backend2/controller/AnalyticsController.java
+/Users/gercou/backend_2/ai-support-saas/backend-2/src/main/java/org/example/backend2/dto/AuthResponse.java
+/Users/gercou/backend_2/ai-support-saas/backend-2/src/main/java/org/example/backend2/dto/TicketStatsDto.java
+/Users/gercou/backend_2/ai-support-saas/backend-2/src/main/java/org/example/backend2/client/OpenAiClient.java
+/Users/gercou/backend_2/ai-support-saas/backend-2/src/main/java/org/example/backend2/controller/NotificationController.java
+/Users/gercou/backend_2/ai-support-saas/backend-2/src/main/java/org/example/backend2/service/NotificationService.java
+/Users/gercou/backend_2/ai-support-saas/backend-2/src/main/java/org/example/backend2/controller/AiController.java
+/Users/gercou/backend_2/ai-support-saas/backend-2/src/main/java/org/example/backend2/config/CorsConfig.java
